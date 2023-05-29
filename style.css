@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    width: 130px;
+}
+h1:hover{
+    background-color: greenyellow;
+}
+p{
+    width: 130px;
+    text-align: justify;
+}
+.spa{
+    color: blue;
+}
